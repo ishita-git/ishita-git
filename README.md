@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Currently learning Android Development :iphone:
-### 
+### Launguages known: *Java*, *Kotlin* , *C* , *HTML*
 
 <!--
 **ishita-git/ishita-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
