@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### Currently learning Android Development :iphone:
 ### Launguages known: *Java*, *Kotlin* , *C* , *HTML*
+### Find me on: [Hackerrank](https://www.hackerrank.com/ishitaamod) [LinkedIn](https://www.linkedin.com/in/ishita19sep2001/)
 
 <!--
 **ishita-git/ishita-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
