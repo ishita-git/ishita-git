@@ -1,6 +1,6 @@
 ### Hi there 👋
-### Android and Web Developer  :iphone:
-### Launguages known: *Java*, *Kotlin* ,*React.js*,*Node.js*, *HTML*,*CSS*
+### Front-end Web Developer  :iphone:
+### Launguages known: *Javascript*,*React.js*,*Node.js*, *HTML*,*CSS*
 ### Find me on: [Hackerrank](https://www.hackerrank.com/ishitaamod) [LinkedIn](https://www.linkedin.com/in/ishita19sep2001/)
 
 <!--
